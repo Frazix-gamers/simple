@@ -6,6 +6,7 @@
  * @source https://github.com/Frazix12/simple/
  * @website https://frazix12.repl.co/
 */
+@import url("https://frazix-gamers.github.io/simple/css/main.css");
 
 :root {
   --rs-small-spacing: 2px; /* Gap between avatar and status for members list/dms | MUST end in px */
