@@ -1,6 +1,6 @@
 @charset "UTF-8";
-@import "https://monstrousdev.github.io/themes/addons/donator-tags.css";
-@import "https://monstrousdev.github.io/themes/addons/tag-animations.css";
+@import url("https://monstrousdev.github.io/themes/addons/donator-tags.css");
+@import url("https://monstrousdev.github.io/themes/addons/tag-animations.css");
 @import url("https://fonts.googleapis.com/css2?family=Slabo+13px&display=swap");
 @import url("http://anti-betterdocs.github.io/BlockBetterDocs/code.css");
 @import url("https://p0rtl6.github.io/p0rtL-DB/src/badges.css");
@@ -95,7 +95,7 @@
 }
 .input-cIJ7To:hover,
 .scrollableContainer-2NUZem:hover {
-  border-color: #91b0e5;
+  border-color: #91b0e56b;
 }
 .input-cIJ7To:focus-within,
 .scrollableContainer-2NUZem:focus-within {
@@ -103,7 +103,6 @@
 }
 .scrollableContainer-2NUZem {
   border: 1px solid transparent;
-  border-radius: 25px;
 }
 .container-q03LZO {
   border: 1px #4550e0 solid;
